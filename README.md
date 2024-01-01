@@ -1,6 +1,6 @@
 # Udacity-AI-Programming
 
-![certificate](certificate.png)
+![certificate](certificate.PNG)
 
 
 
